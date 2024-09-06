@@ -74,7 +74,7 @@ This project provided insights into:
     - Implementing motion detection with basic logic.
     - Debugging hardware and software integration issues.
 
-***Future Improvements
+***Future Improvements***
 - Add a buzzer or other alert mechanisms when motion is detected
 - For future development, you could mention the use of **LiDAR (Light Detection and Ranging)** technology as a higher-precision alternative to the ultrasonic sensor. LiDAR can measure distances over a longer range and with greater accuracy. Here's a concise mention for the "Future Improvements" section of your README:
 

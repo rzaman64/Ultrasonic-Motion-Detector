@@ -28,4 +28,6 @@ alerting mechanisms like an LED.
 
   **Installation**
   1. Clone the project repository or download the project files
-     git clone https://github.com/yourusername/rpi-motion-sensor.git
+     ...
+     git clone https://github.com/rzaman64/rpi-motion-sensor.git
+     ...
